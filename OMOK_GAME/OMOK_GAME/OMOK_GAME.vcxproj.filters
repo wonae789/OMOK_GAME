@@ -18,5 +18,8 @@
     <ClCompile Include="OMOK_GAME.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="OMOK_GAME_ver2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
