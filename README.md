@@ -1,0 +1,1 @@
+# PROJECT_OMOK_GAME_Clang
